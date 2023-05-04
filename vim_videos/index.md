@@ -1,12 +1,17 @@
-# vim的操作教学视频
+# vim的视频
 
-## 插件管理器`dein.nvim`
+## vim的基本操作
 
-- [为什么是`dein.nvim`](为什么是`dein.nvim`.md)
+> 可以参考[thepremigen](https://www.youtube.com/watch?v=X6AR2RMB5tE&t=267s)
+
+## 插件管理器`dein.vim`
+
+1. [为什么是dein](为什么是dein.md)
+2. [dein的详细使用教程]
 
 ## OSV -- old-school vim 配置
 
-1. [`OSV` 展示以及我做本系列视频初衷](`OSV`-展示以及我做本系列视频初衷.md)
+1. [在这个时间点OSV的目的]
 2. [此配置文件的文件结构]
-3. [无配置]
 
+## 使用lua来完成neovim的配置

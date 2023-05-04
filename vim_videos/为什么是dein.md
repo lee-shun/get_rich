@@ -1,6 +1,6 @@
 # 为什么是`dein.vim`
 
-- title: vim 插件管理器，还在用 vim-plug? 一步步使用`dein`让你全面掌控你的插件！
+- vim 插件管理器，还在用 vim-plug? 一步步使用`dein`让你全面掌控你的插件！
 
 ## vim-plug 的优缺点
 
